@@ -1,1 +1,2 @@
-# arcadianGameZone
+Arcadian Game Zone est une application pour les plus jeunes comme les moins jeunes, de 5 jeux ludiques et rigolos, adaptée à tout type d’écran. Elle a été créée avec l’idée de développer un outil qui permet de diminuer son stress, développer sa logique et sa mémoire tout en s’amusant.
+ Pour rendre le site plus vivant et personnalisé : le décor et les thèmes sont des clins d’œil à des références culturelles de la génération Y et Z. Il a été construit dans un style d’arcade, pour pouvoir créer une expérience plus riche : apportant la possibilité de conserver ses scores et une touche de compétitivité avec le tableau des Highscores.
